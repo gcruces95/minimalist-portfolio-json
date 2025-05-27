@@ -1,340 +1,376 @@
 {
-    "basics": {
-        "name": "Gabriel Cruces Gallardo",
-        "label": "Ingeniero Civil Informático | Desarrollador Backend & Frontend | Buscando Oportunidades en Desarrollo e Ingeniería de Software",
-        "image": "https://avatars.githubusercontent.com/u/66741207?v=4",
-        "email": "gabrielcrucesg@gmail.com",
-        "phone": "+569 30236176",
-        "url": "",
-        "summary": "Soy Ingeniero Civil Informático con más de un año de experiencia en desarrollo backend y frontend, con trayectoria en sectores como I+D, sector público, logística, educación y salud. Aunque no me limito a un stack tecnológico específico, he trabajado con diversas herramientas adaptándome a distintos contextos. Actualmente, formo parte del equipo de MediSmart.Live, donde desarrollo productos innovadores utilizando tecnologías como Next.js, Tailwind CSS y TypeScript para el frontend, y AWS Lambda con Node.js en el backend. También participo en un proyecto que ha sido beneficiado con un fondo CORFO. Resido en Chile, dividiendo mi tiempo entre Santiago y Valdivia, y estoy en busca de oportunidades para seguir creciendo profesionalmente en el ámbito del desarrollo e ingeniería de software.",
-        "location": {
-            "address": "",
-            "postalCode": "9090391",
-            "city": "Santiago - Valdivia",
-            "countryCode": "CL",
-            "region": "Chile"
-        },
-        "profiles": [
-            {
-                "network": "LinkedIn",
-                "username": "gabrielcrucesg",
-                "url": "https://linkedin.com/in/gabrielcrucesg/"
-            },
-            {
-                "network": "GitHub",
-                "username": "gcruces95",
-                "url": "https://github.com/gcruces95"
-            },
-            {
-                "network": "X",
-                "username": "gabrielcrucesg",
-                "url": "https://x.com/gabrielcrucesg"
-            }
-        ]
+  "basics": {
+    "name": "Gabriel Cruces Gallardo",
+    "label": "Ingeniero Civil Informático | Desarrollador Backend & Frontend | Buscando Oportunidades en Desarrollo e Ingeniería de Software",
+    "image": "https://avatars.githubusercontent.com/u/66741207?v=4",
+    "email": "gabrielcrucesg@gmail.com",
+    "phone": "+569 30236176",
+    "url": "",
+    "summary": "Soy Ingeniero Civil Informático con más de un año de experiencia en desarrollo backend y frontend, con trayectoria en sectores como I+D, sector público, logística, educación y salud. Aunque no me limito a un stack tecnológico específico, he trabajado con diversas herramientas adaptándome a distintos contextos. Actualmente, formo parte del equipo de MediSmart.Live, donde desarrollo productos innovadores utilizando tecnologías como Next.js, Tailwind CSS y TypeScript para el frontend, y AWS Lambda con Node.js en el backend. También participo en un proyecto que ha sido beneficiado con un fondo CORFO. Resido en Chile, dividiendo mi tiempo entre Santiago y Valdivia, y estoy en busca de oportunidades para seguir creciendo profesionalmente en el ámbito del desarrollo e ingeniería de software.",
+    "location": {
+      "address": "",
+      "postalCode": "9090391",
+      "city": "Santiago - Valdivia",
+      "countryCode": "CL",
+      "region": "Chile"
     },
-    "work": [
-		{
-			"name": "MediSmart.Live {Remoto}",
-			"position": "Desarrollador Fullstack",
-			"url": "https://cl.medismart.live/",
-			"startDate": "2024-10-01",
-			"endDate": null,
-			"summary": "Soy parte del equipo de desarrollo de nuevos productos de MediSmart.Live, MedisMart.Live es un proveedor de atención médica digital que ofrece servicios de telemedicina, bienestar y salud mental.",
-			"highlights": [
-				"Desarrollé el frontend del producto/servicio 'Bienestar continuo' para pacientes crónicos (noviembre, 2024)"
-
-			],
-			"location": "Valdivia, Región de Los Ríos, Chile"
-		},
-		{
-			"name": "Austrum (Medio Tiempo)",
-			"position": "Director de Arquitectura y Base de Datos y Desarrollador",
-			"url": null,
-			"startDate": "2023-09-01",
-			"endDate": null,
-			"summary": "Como cofundador de Austrum, lidero la definición de la arquitectura del software y el modelamiento de datos, contribuyendo a la creación de soluciones tecnológicas innovadoras.",
-			"highlights": [
-				"Diseñé la arquitectura de software escalable para aplicaciones críticas",
-				"Modelé bases de datos optimizadas para grandes volúmenes de datos",
-				"Desarrollé y mantuve tanto backend como frontend, asegurando una integración fluida entre ambas capas."
-			],
-			"location": "Valdivia, Región de Los Ríos, Chile"
-		},
-		{
-			"name": "Municipalidad de Cerro Navia",
-			"position": "Ingeniero Informático",
-			"url": "https://www.cerronavia.cl/",
-			"startDate": "2023-02-01",
-			"endDate": "2023-04-01",
-			"summary": "Brindé soporte técnico y desarrollé soluciones de software para mejorar la eficiencia operativa en el Departamento de Modernización y TICs.",
-			"highlights": [
-				"Desarrollé un sistema de inventario automatizado que permitió un mejor seguimiento de activos.",
-				"Proporcioné soporte técnico a más de 50 usuarios, resolviendo problemas de hardware y software."
-			],
-			"location": "Cerro Navia, Región Metropolitana de Santiago, Chile"
-		},
-		{
-			"name": "Sophia Technologies, UACH",
-			"position": "Desarrollador de Software",
-			"url": "https://sophialt.org/",
-			"startDate": "2022-03-01",
-			"endDate": "2022-07-01",
-			"summary": "Durante mi práctica, diseñé e implementé módulos clave para una plataforma de análisis de medios, mejorando su funcionalidad y rendimiento.",
-			"highlights": [
-				"Desarrollé nuevos componentes de software utilizando Python y librerías de procesamiento de lenguaje natural (NLP), principalmente la automatización de generar reportes de análisis de medios.",
-				"Colaboré con un equipo interdisciplinario, integrando feedback para mejorar la usabilidad y funcionalidad de la plataforma.",
-				"Tuve un rol en la recomendación de tecnologías y arquitecturas para mejorar la escalabilidad y mantenibilidad del software."
-			],
-			"location": "Valdivia, Región de Los Ríos, Chile"
-		},
-		{
-			"name": "Sodimac",
-			"position": "Administrativo de Despacho a Domicilio Nacional",
-			"url": "https://www.sodimac.cl/sodimac-cl",
-			"startDate": "2014-03-01",
-			"endDate": "2017-01-01",
-			"summary": "En mi rol en Sodimac, gestioné el despacho a domicilio a nivel nacional, optimizando procesos clave para mejorar la eficiencia y satisfacción del cliente.",
-			"highlights": [
-				"Lideré la optimización del proceso de facturación de productos siniestrados, reduciendo el tiempo de procesamiento en un 30%.",
-				"Estandaricé procedimientos de facturación, lo que resultó en una reducción de errores del 25% y una mejora en la precisión de los reportes.",
-				"Colaboré con equipos interdepartamentales para identificar y resolver cuellos de botella en la logística, mejorando la eficiencia operativa general."
-			],
-			"location": "Gran Santiago, Región Metropolitana de Santiago, Chile"
-		}
-	],
-    "volunteer": [
-        {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "url": "https://organization.com/",
-            "startDate": "2012-01-01",
-            "endDate": "2013-01-01",
-            "summary": "Description…",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
-        }
-    ],
-    "education": [
-        {
-            "institution": "Universidad Austral de Chile",
-            "url": "https://www.uach.cl/",
-            "area": "Ingeniería Civil en Informática",
-            "studyType": "Licenciatura",
-            "startDate": "2017-01-01",
-            "endDate": "2024-01-01",
-            "score": "",
-            "courses": []
-        }
-    ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
-    "certificates": [
-        {
-            "name": "Certificate",
-            "date": "2021-11-07",
-            "issuer": "Company",
-            "url": "https://certificate.com"
-        }
-    ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "url": "https://publication.com",
-            "summary": "Description…"
-        }
-    ],
-    "skills": [
-        {
-            "name": "HTML",
-            "level": "Master",
-            "keywords": ["Desarrollo Web", "Frontend"]
-        },
-        {
-            "name": "CSS",
-            "level": "Master",
-            "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
-        },
-        {
-            "name": "JavaScript",
-            "level": "Master",
-            "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
-        },
-        {
-            "name": "Tailwind",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "CSS Framework",
-                "Diseño Responsive"
-            ]
-        },
-        {
-            "name": "TypeScript",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "Backend",
-                "JavaScript Superset"
-            ]
-        },
-        {
-            "name": "Node",
-            "level": "Avanzado",
-            "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
-        },
-        {
-            "name": "MySQL",
-            "level": "Avanzado",
-            "keywords": [
-                "Bases de Datos",
-                "SQL",
-                "Almacenamiento de Datos",
-                "Backend"
-            ]
-        },
-        {
-            "name": "Git",
-            "level": "Avanzado",
-            "keywords": [
-                "Control de Versiones",
-                "Colaboración",
-                "Código Fuente"
-            ]
-        },
-        {
-            "name": "GitHub",
-            "level": "Avanzado",
-            "keywords": [
-                "Control de Versiones",
-                "Colaboración",
-                "Código Fuente",
-                "Git"
-            ]
-        },
-        {
-            "name": "React",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "JavaScript Library",
-                "UI"
-            ]
-        },
-        {
-            "name": "MariaDB",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "JavaScript Library",
-                "UI"
-            ]
-        },
-        {
-            "name": "Xampp",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "JavaScript Library",
-                "UI"
-            ]
-        },
-        {
-            "name": "Python",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "JavaScript Library",
-                "UI"
-            ]
-        },
-        {
-            "name": "PostgreSQL",
-            "level": "Avanzado",
-            "keywords": [
-                "Desarrollo Web",
-                "Frontend",
-                "JavaScript Library",
-                "UI"
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "Spanish",
-            "fluency": "Native speaker"
-        },
-        {
-            "language": "English",
-            "fluency": "Basic"
-        }
-    ],
-    "interests": [
-        {
-            "name": "Wildlife",
-            "keywords": ["Ferrets", "Unicorns"]
-        }
-    ],
-    "references": [
-        {
-            "name": "Jane Doe",
-            "reference": "Reference…"
-        }
-    ],
-    "projects": [
-        {
-            "name": "Landing Obras360",
-            "isActive": true,
-            "description": "Landing Page para presentar el software Obras360 by Austrum.",
-            "highlights": [
-                "Implementación de diseño responsivo.",
-                "Optimización de rendimiento web."
-            ],
-            "url": "https://obras360.netlify.app/"
-        },
-        {
-            "name": "Portafolio Minimalista",
-            "isActive": true,
-            "description": "Un portafolio personal con un diseño minimalista.",
-            "highlights": [
-                "Diseño limpio y moderno.",
-                "Configurable desde un template JSON."
-            ],
-            "url": "https://gcruces.netlify.app/",
-            "github": "https://github.com/gcruces95/minimalist-portfolio-json"
-        },
-        {
-            "name": "PIDU_UTECH",
-            "isActive": false,
-            "description": "Tesis: Plataforma de gestión de desafíos de programación mediante interfaz gráfica utilizando Blockly.",
-            "highlights": [
-                "Gestión de desafíos de programación en línea.",
-                "Enfoque en la educación y aprendizaje interactivo."
-            ],
-            "url": "https://github.com/gcruces95/pidu",
-            "github": "https://github.com/gcruces95/pidu"
-        },
-        {
-            "name": "Próximamente...",
-            "isActive": false,
-            "description": "Esta sección estará constantemente actualizándose con nuevos proyectos.",
-            "highlights": [
-                "Espacio reservado para futuros proyectos innovadores.",
-                "Mantente atento a las actualizaciones."
-            ],
-            "url": ""
-        }
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "gabrielcrucesg",
+        "url": "https://linkedin.com/in/gabrielcrucesg/"
+      },
+      {
+        "network": "GitHub",
+        "username": "gcruces95",
+        "url": "https://github.com/gcruces95"
+      },
+      {
+        "network": "X",
+        "username": "gabrielcrucesg",
+        "url": "https://x.com/gabrielcrucesg"
+      }
     ]
+  },
+  "work": [
+    {
+      "name": "MediSmart.Live {Remoto}",
+      "position": "Desarrollador Fullstack",
+      "url": "https://cl.medismart.live/",
+      "startDate": "2024-10-01",
+      "endDate": null,
+      "summary": "Soy parte del equipo de desarrollo de nuevos productos de MediSmart.Live, MedisMart.Live es un proveedor de atención médica digital que ofrece servicios de telemedicina, bienestar y salud mental.",
+      "highlights": [
+        "Desarrollé el frontend del producto/servicio 'Bienestar continuo' para pacientes crónicos (noviembre, 2024)"
+      ],
+      "location": "Valdivia, Región de Los Ríos, Chile"
+    },
+    {
+      "name": "Austrum (Medio Tiempo)",
+      "position": "Director de Arquitectura y Base de Datos y Desarrollador",
+      "url": null,
+      "startDate": "2023-09-01",
+      "endDate": null,
+      "summary": "Como cofundador de Austrum, lidero la definición de la arquitectura del software y el modelamiento de datos, contribuyendo a la creación de soluciones tecnológicas innovadoras.",
+      "highlights": [
+        "Diseñé la arquitectura de software escalable para aplicaciones críticas",
+        "Modelé bases de datos optimizadas para grandes volúmenes de datos",
+        "Desarrollé y mantuve tanto backend como frontend, asegurando una integración fluida entre ambas capas",
+        "Gestioné proyectos beneficiados con fondos CORFO para innovación tecnológica"
+      ],
+      "location": "Valdivia, Región de Los Ríos, Chile"
+    },
+    {
+      "name": "Municipalidad de Cerro Navia",
+      "position": "Ingeniero Informático",
+      "url": "https://www.cerronavia.cl/",
+      "startDate": "2023-02-01",
+      "endDate": "2023-04-01",
+      "summary": "Brindé soporte técnico y desarrollé soluciones de software para mejorar la eficiencia operativa en el Departamento de Modernización y TICs.",
+      "highlights": [
+        "Desarrollé un sistema de inventario automatizado que permitió un mejor seguimiento de activos",
+        "Proporcioné soporte técnico a más de 50 usuarios, resolviendo problemas de hardware y software",
+        "Optimicé procesos administrativos mediante la implementación de herramientas digitales"
+      ],
+      "location": "Cerro Navia, Región Metropolitana de Santiago, Chile"
+    },
+    {
+      "name": "Sophia Technologies, UACH",
+      "position": "Desarrollador de Software",
+      "url": "https://sophialt.org/",
+      "startDate": "2022-03-01",
+      "endDate": "2022-07-01",
+      "summary": "Durante mi práctica, diseñé e implementé módulos clave para una plataforma de análisis de medios, mejorando su funcionalidad y rendimiento.",
+      "highlights": [
+        "Desarrollé nuevos componentes de software utilizando Python y librerías de procesamiento de lenguaje natural (NLP)",
+        "Automaticé la generación de reportes de análisis de medios, reduciendo el tiempo de proceso en un 70%",
+        "Colaboré con un equipo interdisciplinario, integrando feedback para mejorar la usabilidad y funcionalidad de la plataforma",
+        "Recomendé tecnologías y arquitecturas para mejorar la escalabilidad y mantenibilidad del software"
+      ],
+      "location": "Valdivia, Región de Los Ríos, Chile"
+    },
+    {
+      "name": "Sodimac",
+      "position": "Administrativo de Despacho a Domicilio Nacional",
+      "url": "https://www.sodimac.cl/sodimac-cl",
+      "startDate": "2014-03-01",
+      "endDate": "2017-01-01",
+      "summary": "En mi rol en Sodimac, gestioné el despacho a domicilio a nivel nacional, optimizando procesos clave para mejorar la eficiencia y satisfacción del cliente.",
+      "highlights": [
+        "Lideré la optimización del proceso de facturación de productos siniestrados, reduciendo el tiempo de procesamiento en un 30%",
+        "Estandaricé procedimientos de facturación, lo que resultó en una reducción de errores del 25% y una mejora en la precisión de los reportes",
+        "Colaboré con equipos interdepartamentales para identificar y resolver cuellos de botella en la logística, mejorando la eficiencia operativa general"
+      ],
+      "location": "Gran Santiago, Región Metropolitana de Santiago, Chile"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Austral de Chile",
+      "url": "https://www.uach.cl/",
+      "area": "Ingeniería Civil en Informática",
+      "studyType": "Licenciatura",
+      "startDate": "2017-01-01",
+      "endDate": "2024-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web", "Frontend", "React Framework", "SSR"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Backend",
+        "Análisis de Datos",
+        "Automatización",
+        "Scripting"
+      ]
+    },
+    {
+      "name": "NestJS",
+      "level": "Intermedio",
+      "keywords": [
+        "Backend",
+        "Node.js",
+        "TypeScript",
+        "API RESTful"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermedio",
+      "keywords": [
+        "Contenedores",
+        "DevOps",
+        "Despliegue",
+        "Infraestructura"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Rendimiento",
+        "Sitios Estáticos"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Landing Page para Obras360",
+      "isActive": true,
+      "category": "Frontend",
+      "description": "Landing page informativo diseñado para presentar una solución especializada para municipalidades chilenas que agiliza y simplifica el proceso de emisión de certificados de Dirección de Obras Municipales (DOM). Este sitio web promocional muestra cómo la solución permite optimizar la gestión administrativa y mejorar el servicio a la comunidad mediante herramientas digitales intuitivas y eficientes.",
+      "highlights": [
+        "Presentación de Pool de Certificados DOM y formatos MOP",
+        "Sección de Personalización para necesidades específicas de cada municipalidad",
+        "Diseño Intuitivo con interfaz moderna y fácil de navegar",
+        "Sección de Beneficios sobre optimización de tiempo y recursos",
+        "Información de Contacto para comunicación con soporte personalizado"
+      ],
+      "url": "https://obras360.netlify.app",
+      "technologies": [
+        "Astro",
+        "TailwindCSS",
+        "React",
+        "TypeScript",
+        "Framer Motion"
+      ]
+    },
+    {
+      "name": "Portafolio Minimalista",
+      "isActive": true,
+      "category": "Frontend",
+      "description": "Un portafolio personal con un diseño minimalista.",
+      "highlights": [
+        "Diseño limpio y moderno.",
+        "Configurable desde un template JSON."
+      ],
+      "url": "https://gcruces.netlify.app/",
+      "github": "https://github.com/gcruces95/minimalist-portfolio-json"
+    },
+    {
+      "name": "NestPokedex",
+      "isActive": true,
+      "category": "Backend",
+      "description": "CRUD que simula el comportamiento de la API de PokeAPI. Desarrollado con NestJS y MongoDB, permite crear, leer, actualizar y eliminar información de Pokémon, con función de semilla para poblar la base de datos.",
+      "highlights": [
+        "Implementación de diseño responsivo.",
+        "Optimización de rendimiento web.",
+        "Sistema de paginación avanzado para consultas eficientes.",
+        "API RESTful completa con endpoints CRUD.",
+        "Integración con MongoDB mediante Mongoose.",
+        "Dockerización para desarrollo y despliegue simplificados.",
+        "Variables de entorno configurables para adaptarse a diferentes entornos."
+      ],
+      "url": "https://learning-nestjs-pokedex-production.up.railway.app/",
+      "technologies": [
+        "NestJS",
+        "MongoDB",
+        "Mongoose",
+        "Docker",
+        "TypeScript",
+        "Node.js"
+      ],
+      "github": "https://github.com/gcruces95/learning-nestjs-pokedex"
+    },
+    {
+      "name": "PIDU_UTECH",
+      "isActive": false,
+      "category": "Fullstack",
+      "description": "Tesis: Plataforma de gestión de desafíos de programación mediante interfaz gráfica utilizando Blockly.",
+      "highlights": [
+        "Gestión de desafíos de programación en línea.",
+        "Enfoque en la educación y aprendizaje interactivo."
+      ],
+      "url": "https://github.com/gcruces95/pidu",
+      "github": "https://github.com/gcruces95/pidu"
+    },
+    {
+      "name": "Próximamente...",
+      "isActive": false,
+      "description": "Esta sección estará constantemente actualizándose con nuevos proyectos.",
+      "highlights": [
+        "Espacio reservado para futuros proyectos innovadores.",
+        "Mantente atento a las actualizaciones."
+      ],
+      "url": ""
+    }
+  ]
 }
