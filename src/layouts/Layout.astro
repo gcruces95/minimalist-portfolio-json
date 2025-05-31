@@ -1,5 +1,6 @@
 ---
 import { basics } from "@cv/"
+import ThemeToggle from "@/components/ThemeToggle.astro";
 
 interface Props {
 	title: string
@@ -34,11 +35,42 @@ interface Props {
 		<meta name="twitter:image" content="" />
 	</head>
 	<body>
+		<ThemeToggle />
 		<slot />
 	</body>
 </html>
 
 <style is:global>
+	:root {
+		/* Tema claro */
+		--bg-primary: #fff;
+		--bg-secondary: #f8f9fa;
+		--bg-hover: #e9ecef;
+		--text-primary: #212529;
+		--text-secondary: #666;
+		--text-tertiary: #555;
+		--text-muted: #777;
+		--border-color: #eee;
+		--border-hover: #ddd;
+		--shadow-color: rgba(0, 0, 0, 0.1);
+		--accent-color: #444;
+	}
+
+	[data-theme="dark"] {
+		/* Tema oscuro */
+		--bg-primary: #0d1117;
+		--bg-secondary: #161b22;
+		--bg-hover: #21262d;
+		--text-primary: #f0f6fc;
+		--text-secondary: #8b949e;
+		--text-tertiary: #7d8590;
+		--text-muted: #6e7681;
+		--border-color: #30363d;
+		--border-hover: #484f58;
+		--shadow-color: rgba(0, 0, 0, 0.3);
+		--accent-color: #58a6ff;
+	}
+
 	html {
 		font-family:
 		Menlo,
@@ -47,18 +79,24 @@ interface Props {
 		"Courier New",
 		Courier,
 		monospace;
-		background: #fff;
+		background: var(--bg-primary);
+		color: var(--text-primary);
 		letter-spacing: -0.025rem;
+		transition: background-color 0.3s ease, color 0.3s ease;
 	}
 
 	body,
 	figure {
 		margin: 0;
 		padding: 0;
+		background: var(--bg-primary);
+		color: var(--text-primary);
 	}
 
 	a {
 		text-decoration: none;
+		color: var(--text-primary);
+		transition: color 0.3s ease;
 	}
 
 	ul {
@@ -90,10 +128,11 @@ interface Props {
 		"Open Sans",
 		"Helvetica Neue",
 		sans-serif;
+		color: var(--text-primary);
 	}
 
 	p {
-		color: #666;
+		color: var(--text-secondary);
 		font-size: 0.9rem;
 		line-height: 1.5;
 		margin: 0;

@@ -58,8 +58,9 @@ import { projects } from "@cv/"
 
     article {
         border-radius: 12px;
-        background: #fff;
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+        background: var(--bg-primary);
+        border: 1px solid var(--border-color);
+        box-shadow: 0 4px 12px var(--shadow-color);
         gap: 16px;
         display: flex;
         flex-direction: column;
@@ -67,12 +68,13 @@ import { projects } from "@cv/"
         height: 100%;
         position: relative;
         overflow: hidden;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease, border-color 0.3s ease;
     }
 
     article:hover {
         transform: translateY(-5px);
-        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08);
+        box-shadow: 0 10px 20px var(--shadow-color);
+        background: var(--bg-secondary);
     }
 
     .category-indicator {
@@ -81,7 +83,7 @@ import { projects } from "@cv/"
         left: 0;
         height: 4px;
         width: 100%;
-        background: #ddd;
+        background: var(--border-color);
     }
 
     /* Estilos específicos por categoría */
@@ -107,23 +109,24 @@ import { projects } from "@cv/"
         align-items: center;
         gap: 5px;
         font-size: 1.1rem;
+        color: var(--text-primary);
     }
 
     article a {
-        color: #111;
+        color: var(--text-primary);
         transition: color 0.2s ease;
     }
 
     article a:hover {
         text-decoration: none;
-        color: #555;
+        color: var(--accent-color);
     }
 
     article p {
         font-size: 0.8rem;
         line-height: 1.4rem;
         margin: 8px 0 12px;
-        color: #444;
+        color: var(--text-secondary);
     }
 
     article h3 .active-dot {
@@ -147,18 +150,21 @@ import { projects } from "@cv/"
     }
 
     .project-frontend .category-tag {
-        background-color: #e6f7ff;
+        background-color: rgba(97, 218, 251, 0.1);
         color: #0288d1;
+        border: 1px solid rgba(97, 218, 251, 0.2);
     }
 
     .project-backend .category-tag {
-        background-color: #e8f5e9;
+        background-color: rgba(104, 160, 99, 0.1);
         color: #2e7d32;
+        border: 1px solid rgba(104, 160, 99, 0.2);
     }
 
     .project-fullstack .category-tag {
-        background-color: #f3e5f5;
+        background-color: rgba(137, 87, 229, 0.1);
         color: #7b1fa2;
+        border: 1px solid rgba(137, 87, 229, 0.2);
     }
 
     footer {
@@ -170,29 +176,34 @@ import { projects } from "@cv/"
 
     footer span {
         border-radius: 20px;
-        background: #f5f5f5;
-        color: #333;
+        background: var(--bg-secondary);
+        color: var(--text-secondary);
+        border: 1px solid var(--border-color);
         font-size: 0.65rem;
         font-weight: 500;
         padding: 0.3rem 0.8rem;
-        transition: background-color 0.2s ease, transform 0.2s ease;
+        transition: background-color 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
     }
 
     footer span:hover {
-        background: #eee;
+        background: var(--bg-hover);
+        border-color: var(--border-hover);
         transform: scale(1.05);
     }
 
     .project-frontend footer span:hover {
-        background-color: #e3f2fd;
+        background-color: rgba(97, 218, 251, 0.1);
+        border-color: rgba(97, 218, 251, 0.3);
     }
 
     .project-backend footer span:hover {
-        background-color: #e8f5e9;
+        background-color: rgba(104, 160, 99, 0.1);
+        border-color: rgba(104, 160, 99, 0.3);
     }
 
     .project-fullstack footer span:hover {
-        background-color: #f3e5f5;
+        background-color: rgba(137, 87, 229, 0.1);
+        border-color: rgba(137, 87, 229, 0.3);
     }
 
     .github-code-link {
@@ -227,7 +238,7 @@ import { projects } from "@cv/"
         article {
             border-radius: 8px;
             padding: 16px;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+            box-shadow: 0 2px 8px var(--shadow-color);
         }
 
         article h3 {
@@ -243,7 +254,7 @@ import { projects } from "@cv/"
     @media print {
         article {
             box-shadow: none;
-            border: 1px solid #eee;
+            border: 1px solid var(--border-color);
         }
 
         article h3 .active-dot {
