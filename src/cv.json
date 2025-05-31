@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Gabriel Cruces Gallardo",
-    "label": "Ingeniero Civil Informático | Desarrollador Backend & Frontend | Buscando Oportunidades en Desarrollo e Ingeniería de Software",
+    "label": "INGENIERO CIVIL INFORMÁTICO | FULL-STACK SOFTWARE DEVELOPER",
     "image": "https://avatars.githubusercontent.com/u/66741207?v=4",
     "email": "gabrielcrucesg@gmail.com",
-    "phone": "+569 30236176",
-    "url": "",
-    "summary": "Soy Ingeniero Civil Informático con más de un año de experiencia en desarrollo backend y frontend, con trayectoria en sectores como I+D, sector público, logística, educación y salud. Aunque no me limito a un stack tecnológico específico, he trabajado con diversas herramientas adaptándome a distintos contextos. Actualmente, formo parte del equipo de MediSmart.Live, donde desarrollo productos innovadores utilizando tecnologías como Next.js, Tailwind CSS y TypeScript para el frontend, y AWS Lambda con Node.js en el backend. También participo en un proyecto que ha sido beneficiado con un fondo CORFO. Resido en Chile, dividiendo mi tiempo entre Santiago y Valdivia, y estoy en busca de oportunidades para seguir creciendo profesionalmente en el ámbito del desarrollo e ingeniería de software.",
+    "phone": "+56930236176",
+    "url": "https://gcruces.netlify.app/",
+    "summary": "Ingeniero Civil en Informática con mas de dos años de experiencia en el desarrollo de software full-stack, enfocado en la creación de soluciones tecnológicas escalables y centradas en el usuario. He trabajado en proyectos que abarcan tanto el diseño de interfaces modernas como la implementación de backends robustos y eficientes. Me motiva el aprendizaje continuo y la mejora constante, con especial interés en la transformación digital, el diseño de arquitecturas limpias y el uso de buenas prácticas de desarrollo. Actualmente me encuentro ampliando mis conocimientos en servicios cloud, contenedores y patrones de diseño para afrontar proyectos de mayor complejidad y escalabilidad.",
     "location": {
       "address": "",
       "postalCode": "9090391",
@@ -37,55 +37,78 @@
       "name": "MediSmart.Live {Remoto}",
       "position": "Desarrollador Fullstack",
       "url": "https://cl.medismart.live/",
-      "startDate": "2024-10-01",
+      "startDate": "2024-01-01",
       "endDate": null,
-      "summary": "Soy parte del equipo de desarrollo de nuevos productos de MediSmart.Live, MedisMart.Live es un proveedor de atención médica digital que ofrece servicios de telemedicina, bienestar y salud mental.",
+      "summary": "Desarrollo de nuevos productos y servicios digitales en MediSmart.Live, proveedor de atención médica digital que ofrece servicios de telemedicina, bienestar y salud mental.",
       "highlights": [
-        "Desarrollé el frontend del producto/servicio 'Bienestar continuo' para pacientes crónicos (noviembre, 2024)"
+        "Desarrollo frontend especializado con Next.js y TypeScript, consumiendo APIs REST y WebSocket",
+        "Apoyo en desarrollo backend utilizando MongoDB, Aidbox (FHIR) y AWS Lambda",
+        "Participación en proyectos clave: Bienestar Continuo, Salud Mental, plataforma 3.0 y sistema de backoffice",
+        "Trabajo colaborativo con equipos multidisciplinarios de distintos países bajo metodologías ágiles",
+        "Destacado por comunicación efectiva y propuesta de soluciones innovadoras"
       ],
       "location": "Valdivia, Región de Los Ríos, Chile"
     },
     {
       "name": "Austrum (Medio Tiempo)",
-      "position": "Director de Arquitectura y Base de Datos y Desarrollador",
+      "position": "Fundador - Encargado de Arquitectura y Base de Datos",
       "url": null,
-      "startDate": "2023-09-01",
-      "endDate": null,
-      "summary": "Como cofundador de Austrum, lidero la definición de la arquitectura del software y el modelamiento de datos, contribuyendo a la creación de soluciones tecnológicas innovadoras.",
+      "startDate": "2023-01-01",
+      "endDate": "2025-01-01",
+      "summary": "Como cofundador de Austrum, lidero el desarrollo de soluciones full-stack y la definición de arquitectura de software para la gestión eficiente de certificados DOM.",
       "highlights": [
-        "Diseñé la arquitectura de software escalable para aplicaciones críticas",
-        "Modelé bases de datos optimizadas para grandes volúmenes de datos",
-        "Desarrollé y mantuve tanto backend como frontend, asegurando una integración fluida entre ambas capas",
-        "Gestioné proyectos beneficiados con fondos CORFO para innovación tecnológica"
+        "Desarrollo de soluciones full-stack con stack PERN (PostgreSQL, Express, React, Node.js) para gestión de certificados DOM",
+        "Diseño de arquitectura de software modular y escalable para sistemas críticos",
+        "Modelado de bases de datos eficientes para manejar grandes volúmenes de información",
+        "Mantenimiento e implementación de frontend y backend, asegurando comunicación fluida entre ambos",
+        "Proyecto financiado por CORFO a través del fondo Semilla Inicia (2022)"
+      ],
+      "location": "Valdivia, Región de Los Ríos, Chile"
+    },
+    {
+      "name": "Tesis - Universidad Austral de Chile",
+      "position": "Desarrollador",
+      "url": null,
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-01",
+      "summary": "Desarrollo desde cero hasta MVP de una plataforma de gestión de desafíos de programación con interfaz gráfica basada en Blockly como proyecto de tesis de grado.",
+      "highlights": [
+        "Desarrollo completo desde cero hasta MVP de plataforma educativa de programación",
+        "Implementación de interfaz gráfica intuitiva utilizando Google Blockly para programación visual",
+        "Gestión integral de desafíos de programación con diferentes niveles de dificultad",
+        "Stack tecnológico: PHP, JavaScript, CSS, XAMPP, TailwindCSS",
+        "Enfoque en educación y aprendizaje interactivo de programación"
       ],
       "location": "Valdivia, Región de Los Ríos, Chile"
     },
     {
       "name": "Municipalidad de Cerro Navia",
-      "position": "Ingeniero Informático",
+      "position": "Practicante - Ingeniero Informático",
       "url": "https://www.cerronavia.cl/",
-      "startDate": "2023-02-01",
-      "endDate": "2023-04-01",
-      "summary": "Brindé soporte técnico y desarrollé soluciones de software para mejorar la eficiencia operativa en el Departamento de Modernización y TICs.",
+      "startDate": "2022-02-01",
+      "endDate": "2022-04-01",
+      "summary": "Desarrollé soluciones de software para mejorar la eficiencia operativa en el Departamento de Modernización y TICs durante mi periodo de práctica.",
       "highlights": [
-        "Desarrollé un sistema de inventario automatizado que permitió un mejor seguimiento de activos",
-        "Proporcioné soporte técnico a más de 50 usuarios, resolviendo problemas de hardware y software",
+        "Desarrollo de sistema automatizado de inventario con XAMPP, PHP, Bootstrap y JavaScript",
+        "Mejoras sustanciales en el control de activos y reducción de errores en el registro manual",
+        "Proporcioné soporte técnico a usuarios, resolviendo problemas de hardware y software",
         "Optimicé procesos administrativos mediante la implementación de herramientas digitales"
       ],
       "location": "Cerro Navia, Región Metropolitana de Santiago, Chile"
     },
     {
       "name": "Sophia Technologies, UACH",
-      "position": "Desarrollador de Software",
+      "position": "Practicante - Desarrollador de Software",
       "url": "https://sophialt.org/",
       "startDate": "2022-03-01",
       "endDate": "2022-07-01",
       "summary": "Durante mi práctica, diseñé e implementé módulos clave para una plataforma de análisis de medios, mejorando su funcionalidad y rendimiento.",
       "highlights": [
-        "Desarrollé nuevos componentes de software utilizando Python y librerías de procesamiento de lenguaje natural (NLP)",
+        "Desarrollo de módulos en Python para automatización de reportes usando técnicas de procesamiento de lenguaje natural (NLP)",
+        "Implementación de generación de PDFs dinámicos para reportes personalizados",
         "Automaticé la generación de reportes de análisis de medios, reduciendo el tiempo de proceso en un 70%",
-        "Colaboré con un equipo interdisciplinario, integrando feedback para mejorar la usabilidad y funcionalidad de la plataforma",
-        "Recomendé tecnologías y arquitecturas para mejorar la escalabilidad y mantenibilidad del software"
+        "Participación en decisiones de arquitectura para mejorar escalabilidad y mantenibilidad del producto",
+        "Colaboré con un equipo interdisciplinario, integrando feedback para mejorar la usabilidad de la plataforma"
       ],
       "location": "Valdivia, Región de Los Ríos, Chile"
     },
@@ -156,117 +179,195 @@
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
+      "keywords": [
+        "Frontend",
+        "Marcado Web",
+        "Estructura",
+        "Semántica",
+        "HTML5"
+      ],
+      "category": "Frontend"
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+      "keywords": ["Frontend", "Estilos", "Diseño Responsive", "Animaciones"],
+      "category": "Frontend"
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
-    },
-    {
-      "name": "Tailwind CSS",
-      "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web",
         "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
+        "Backend",
+        "Lenguaje de Programación",
+        "Fullstack"
+      ],
+      "category": "Lenguajes de Programación"
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web",
         "Frontend",
         "Backend",
-        "JavaScript Superset"
-      ]
+        "Lenguaje de Programación",
+        "Tipado Estático"
+      ],
+      "category": "Lenguajes de Programación"
     },
     {
-      "name": "Node.js",
+      "name": "Python",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+      "keywords": [
+        "Backend",
+        "Lenguaje de Programación",
+        "Análisis de Datos",
+        "Automatización",
+        "Scripting"
+      ],
+      "category": "Lenguajes de Programación"
     },
     {
       "name": "React",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      "keywords": [
+        "Frontend",
+        "Framework",
+        "JavaScript Library",
+        "UI",
+        "Componentes"
+      ],
+      "category": "Frontend"
     },
     {
       "name": "Next.js",
       "level": "Intermedio",
-      "keywords": ["Desarrollo Web", "Frontend", "React Framework", "SSR"]
+      "keywords": ["Frontend", "Framework", "React", "SSR", "Fullstack"],
+      "category": "Frontend"
     },
     {
-      "name": "MySQL",
+      "name": "Astro",
+      "level": "Intermedio",
+      "keywords": ["Frontend", "Framework", "Sitios Estáticos", "Rendimiento"],
+      "category": "Frontend"
+    },
+    {
+      "name": "Tailwind CSS",
       "level": "Avanzado",
       "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
+        "Frontend",
+        "Framework CSS",
+        "Utility-First",
+        "Diseño Responsive"
+      ],
+      "category": "Frontend"
     },
     {
-      "name": "Git",
+      "name": "Node.js",
       "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Backend",
-        "Análisis de Datos",
-        "Automatización",
-        "Scripting"
-      ]
+      "keywords": ["Backend", "Runtime", "JavaScript", "Servidor", "APIs"],
+      "category": "Backend"
     },
     {
       "name": "NestJS",
       "level": "Intermedio",
       "keywords": [
         "Backend",
+        "Framework",
         "Node.js",
         "TypeScript",
         "API RESTful"
-      ]
+      ],
+      "category": "Backend"
+    },
+    {
+      "name": "Express.js",
+      "level": "Avanzado",
+      "keywords": ["Backend", "Framework", "Node.js", "APIs", "Middleware"],
+      "category": "Backend"
+    },
+    {
+      "name": "PHP",
+      "level": "Intermedio",
+      "keywords": [
+        "Backend",
+        "Lenguaje de Programación",
+        "Servidor",
+        "Web Development"
+      ],
+      "category": "Lenguajes de Programación"
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": ["Base de Datos", "SQL", "Relacional", "Almacenamiento"],
+      "category": "Base de Datos"
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermedio",
+      "keywords": ["Base de Datos", "NoSQL", "Documentos", "Almacenamiento"],
+      "category": "Base de Datos"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermedio",
+      "keywords": ["Base de Datos", "SQL", "Relacional", "Almacenamiento"],
+      "category": "Base de Datos"
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Herramientas",
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ],
+      "category": "Herramientas"
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Herramientas",
+        "Control de Versiones",
+        "Colaboración",
+        "CI/CD",
+        "Repository"
+      ],
+      "category": "Herramientas"
     },
     {
       "name": "Docker",
       "level": "Intermedio",
       "keywords": [
-        "Contenedores",
         "DevOps",
+        "Contenedores",
+        "Virtualización",
         "Despliegue",
         "Infraestructura"
-      ]
+      ],
+      "category": "Herramientas"
     },
     {
-      "name": "Astro",
-      "level": "Intermedio",
+      "name": "AWS",
+      "level": "Básico",
       "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Rendimiento",
-        "Sitios Estáticos"
-      ]
+        "Cloud",
+        "Servicios Web",
+        "Lambda",
+        "Infraestructura",
+        "Despliegue"
+      ],
+      "category": "Herramientas"
+    },
+    {
+      "name": "XAMPP",
+      "level": "Intermedio",
+      "keywords": ["Herramientas", "Servidor Local", "Apache", "MySQL", "PHP"],
+      "category": "Herramientas"
     }
   ],
   "languages": [
@@ -293,6 +394,35 @@
   ],
   "projects": [
     {
+      "name": "API de Gestión de Tareas - Lista de Tareas en Tiempo Real",
+      "isActive": true,
+      "category": "Fullstack",
+      "description": "Una aplicación completa de gestión de tareas (To-Do List) construida con Node.js, Express, PostgreSQL y WebSockets que permite la actualización en tiempo real para todos los clientes conectados. Implementa una arquitectura limpia con separación de capas, validaciones robustas y una interfaz moderna responsive.",
+      "highlights": [
+        "API RESTful completa con operaciones CRUD para tareas",
+        "Actualizaciones en tiempo real usando WebSockets (Socket.IO)",
+        "Base de datos PostgreSQL con Prisma ORM",
+        "Frontend responsive con interfaz moderna incluida",
+        "Arquitectura limpia con separación de capas (Domain, Data, Presentation)",
+        "Validaciones robustas en DTOs con TypeScript",
+        "Containerización con Docker Compose",
+        "UUIDs para identificadores únicos de tareas"
+      ],
+      "url": "https://pt-to-do-list-node-ts-express-production.up.railway.app/",
+      "technologies": [
+        "Node.js",
+        "Express",
+        "TypeScript",
+        "PostgreSQL",
+        "Prisma",
+        "Socket.IO",
+        "Docker",
+        "HTML5",
+        "CSS3",
+        "WebSockets"
+      ]
+    },
+    {
       "name": "Landing Page para Obras360",
       "isActive": true,
       "category": "Frontend",
@@ -314,16 +444,30 @@
       ]
     },
     {
-      "name": "Portafolio Minimalista",
+      "name": "Portafolio Minimalista con JSON CV",
       "isActive": true,
       "category": "Frontend",
-      "description": "Un portafolio personal con un diseño minimalista.",
+      "description": "Un portafolio minimalista y elegante basado en un archivo JSON que sigue el esquema de jsonresume.org. Este proyecto permite crear un CV profesional y una página web de portafolio personal utilizando un único archivo JSON como fuente de datos, con funcionalidad de exportación a PDF y diseño completamente responsive.",
       "highlights": [
-        "Diseño limpio y moderno.",
-        "Configurable desde un template JSON."
+        "Diseño minimalista inspirado en Bartosz Jarocki",
+        "Basado completamente en JSON Resume estándar",
+        "Exportación a PDF integrada con html2canvas y jsPDF",
+        "Interfaz responsive que se adapta a todos los dispositivos",
+        "Optimizado para SEO y rendimiento",
+        "Fácil personalización mediante un solo archivo JSON",
+        "Atajos de teclado integrados con hotkeypad"
       ],
       "url": "https://gcruces.netlify.app/",
-      "github": "https://github.com/gcruces95/minimalist-portfolio-json"
+      "github": "https://github.com/gcruces95/minimalist-portfolio-json",
+      "technologies": [
+        "Astro",
+        "TypeScript",
+        "HTML2Canvas",
+        "jsPDF",
+        "Hotkeypad",
+        "CSS",
+        "JavaScript"
+      ]
     },
     {
       "name": "NestPokedex",
